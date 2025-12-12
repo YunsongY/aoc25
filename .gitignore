@@ -2,6 +2,7 @@
 target/
 project/target/
 project/project/
+project/.bloop/
 *.class
 *.tasty
 lib_managed/
@@ -14,6 +15,7 @@ project/plugins/project/
 .bsp/
 .metals/
 .vscode/
+.bloop/
 
 # IntelliJ IDEA
 .idea/
