@@ -14,6 +14,5 @@ class Day03Spec extends FunSuite:
   }
 
   test("Day 3 - Part 2 Example") {
-    println(Day03.part2("818181911112111"))
     assertEquals(Day03.part2(exampleInput), 3121910778619L)
   }
