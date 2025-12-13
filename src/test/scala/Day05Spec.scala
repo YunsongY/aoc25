@@ -20,6 +20,6 @@ class Day05Spec extends FunSuite:
     assertEquals(Day05.part1(exampleInput), 3)
   }
 
-  test("Day 4 - Part 2 Example") {
+  test("Day 5 - Part 2 Example") {
     assertEquals(Day05.part2(exampleInput), 14)
   }
